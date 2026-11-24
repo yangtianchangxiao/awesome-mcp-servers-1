@@ -475,6 +475,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Art and literature services.
 
+- <img src="https://chatfate.life/favicon.svg" height="14"/> [ChatFate](https://chatfate.life/developers) - Deterministic True Solar Time (53,000+ global places & historical DST), Sanhe Zi Wei Dou Shu 12-palace charts, Solar-Term Four Pillars BaZi / Korean Saju, dual relationship synastry, and 22-Arcana Destiny Matrix API & skill.
 - <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
 
 <br />
